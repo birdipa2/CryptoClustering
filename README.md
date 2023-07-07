@@ -43,3 +43,6 @@ The code demonstrates how to cluster cryptocurrency market data using K-means an
 
 Feel free to explore and modify the code to further analyze and visualize the clustering and dimensionality reduction results.
 
+## Contact
+
+If you have any questions or feedback about this script, please feel free to contact me at param.birdi@utoronto.ca
